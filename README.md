@@ -25,7 +25,7 @@ The easiest way to install is through [ModAssistant](https://github.com/Assistan
 
 **Manual Install:**
 
-To install, Download the latest mod from our releases. [Click Here](https://github.com/BeatTogether/BeatTogether/releases)
+To install, Download the latest mod from our releases. [Click Here](https://github.com/R0dn3yS/BeatTogether/releases)
 
 Extract the zip file to your Beat Saber game directory (the one `Beat Saber.exe` is in).
 The `BeatTogether.dll` should end up in your `Plugins` folder (**NOT** the one in `Beat Saber_Data`).
