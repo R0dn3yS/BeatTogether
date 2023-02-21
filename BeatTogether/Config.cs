@@ -13,8 +13,8 @@ namespace BeatTogether
 
         // BeatTogether master server config
         public const string BeatTogetherServerName = "BeatTogether";
-        public const string BeatTogetherHostName = "master.beattogether.systems";
-        public const string BeatTogetherStatusUri = "http://master.beattogether.systems/status";
+        public const string BeatTogetherHostName = "bs.dfagaming.nl";
+        public const string BeatTogetherStatusUri = "http://bs.dfagaming.nl/status";
         public const int BeatTogetherMaxPartySize = 100;
 
         public virtual string SelectedServer { get; set; } = BeatTogetherServerName;
